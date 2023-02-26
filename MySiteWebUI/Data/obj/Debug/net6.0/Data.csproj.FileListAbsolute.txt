@@ -1,0 +1,12 @@
+C:\GIT\MySiteWebUI\Data\bin\Debug\net6.0\Data.deps.json
+C:\GIT\MySiteWebUI\Data\bin\Debug\net6.0\Data.dll
+C:\GIT\MySiteWebUI\Data\bin\Debug\net6.0\Data.pdb
+C:\GIT\MySiteWebUI\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\GIT\MySiteWebUI\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\MySiteWebUI\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\GIT\MySiteWebUI\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\GIT\MySiteWebUI\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\GIT\MySiteWebUI\Data\obj\Debug\net6.0\Data.dll
+C:\GIT\MySiteWebUI\Data\obj\Debug\net6.0\refint\Data.dll
+C:\GIT\MySiteWebUI\Data\obj\Debug\net6.0\Data.pdb
+C:\GIT\MySiteWebUI\Data\obj\Debug\net6.0\ref\Data.dll

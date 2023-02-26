@@ -1,0 +1,16 @@
+﻿@model List<Data.LesModules>
+@{
+    ViewData["Title"] = "Tous les modules";
+}
+
+<h1>Tous les modules</h1>
+
+@foreach(var module in Model)
+{
+    <p>Nom du module : @module.Nom</p>
+    <p>Description du module : @module.Description</p>
+    <p>Nom de l'URL du module' : @module.NomUrl</p>
+    <br />
+
+
+}

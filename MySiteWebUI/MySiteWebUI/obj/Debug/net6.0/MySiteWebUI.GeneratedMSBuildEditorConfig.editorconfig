@@ -24,16 +24,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/GIT/MySiteWebUI/MySiteWebUI/Views/Module/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GIT/MySiteWebUI/MySiteWebUI/Views/Module/TousLesModules.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlXFRvdXNMZXNNb2R1bGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/GIT/MySiteWebUI/MySiteWebUI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/GIT/MySiteWebUI/MySiteWebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/GIT/MySiteWebUI/MySiteWebUI/Views/Ville/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/GIT/MySiteWebUI/MySiteWebUI/Views/_ViewImports.cshtml]
